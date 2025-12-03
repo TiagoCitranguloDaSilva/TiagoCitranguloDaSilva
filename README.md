@@ -25,17 +25,4 @@ Olá, me chamo Tiago. Sou um estudante que busca conseguir entrar para o mercado
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40px" />     
 <div>
 
-## Principais projetos
-
-<div style="display: flex; justify-content: space-evenly; flex-wrap: wrap;">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TiagoCitranguloDaSilva&repo=Paciencia)](https://github.com/TiagoCitranguloDaSilva/Paciencia)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TiagoCitranguloDaSilva&repo=Pong)](https://github.com/TiagoCitranguloDaSilva/Pong)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TiagoCitranguloDaSilva&repo=ColorPattern)](https://github.com/TiagoCitranguloDaSilva/ColorPattern)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TiagoCitranguloDaSilva&repo=21)](https://github.com/TiagoCitranguloDaSilva/21)
-
-</div>
-
-          
 Ícones por [Devicon](https://devicon.dev/)
